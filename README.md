@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Abdinasir Bashir
 
-💻 Backend Developer | ⚙️ System Design Enthusiast | 🌍 Ethiopia
+💻 fullstack Developer | ⚙️ System Design Enthusiast | 🌍 Ethiopia
 
 ---
 
 ## 🚀 About Me
 
-I am a backend-focused developer passionate about building **scalable systems and real-world applications**.
+I am a fullstack developer  passionate about building **scalable systems and real-world applications**.
 
 Instead of simple projects, I focus on:
 
