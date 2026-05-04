@@ -49,19 +49,8 @@ Instead of simple projects, I focus on:
 
 ---
 
-## 📌 Featured Project
 
-### 💳 Fintech Payment Platform
 
-A full-stack system that simulates real-world payment processing using:
-
-* Central payment gateway
-* Asynchronous workflows
-* Webhook-based provider integration
-
-👉 *(Add your repo link here)*
-
----
 
 ## 📈 GitHub Stats
 
